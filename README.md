@@ -1,0 +1,1 @@
+My own blog app to improve my HTML,CSS,Javscript and obviously Django experience
